@@ -1,0 +1,12 @@
+# 미니게임이 등장할 확률
+minigame_probability: 30
+
+# 미니게임의 최소 난이도
+min_minigame: 3
+
+# 미니게임의 최대 난이도
+max_minigame: 5
+
+# 미니게임 제한 시간
+# 0을 적을 시 무한으로 지속됩니다.
+minigame_time: 5

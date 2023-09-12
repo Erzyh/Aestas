@@ -1,0 +1,7 @@
+name: aestas
+main: org.erze.aestas.Main
+version: '${version}'
+api-version: '1.20'
+
+authors: [erze]
+description: Custom fishing plugin for Minecraft

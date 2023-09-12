@@ -1,0 +1,32 @@
+# 아래는 기본 형태입니다.
+# itemName:
+# lore: "아이템 설명을 적어주시면 됩니다.",
+# type: "아이템",
+# grade: "아이템 등급 (common, uncommon, rare, epic, legendary)",
+# probability: 50.00 아이템이 등장할 확률입니다.
+
+CommonFish:
+  lore: "흔한 물고기"
+  type: "COD"
+  grade: "common"
+  probability: 30.00
+UncommonFish:
+  lore: "고급 물고기"
+  type: "COD"
+  grade: "uncommon"
+  probability: 25.00
+RareFish:
+  lore: "희귀 물고기"
+  type: "COD"
+  grade: "rare"
+  probability: 10.00
+EpicFish:
+  lore: "영웅 물고기"
+  type: "COD"
+  grade: "epic"
+  probability: 5.00
+LegendaryFish:
+  lore: "전설 물고기"
+  type: "COD"
+  grade: "legendary"
+  probability: 3.00
